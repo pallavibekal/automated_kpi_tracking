@@ -16,3 +16,25 @@ Some Key points are :
 - Potential contributing factors (if integrated with other data sources).
 - Links to relevant dashboards or reports for deeper investigation.
 
+## KPIs
+- Total Number of Orders
+- Gross Revenue
+- Discount
+- Net Revenue
+- Average Delivery Time of Orders
+- Average Preparation Time of Orders
+- Total Users
+- New Users in the time period
+- User Retention in the time period
+## - Percentage Change over the time period
+
+## Data Sources
+Database - Mysql
+Cloud - Google Cloud Storage
+
+## Data Access 
+BigQuery MySQL
+
+## Alerting Module
+Python - email, Request, and others
+Gmail alert
