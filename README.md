@@ -9,3 +9,10 @@ Simply monitoring dashboards isn't enough. The true value lies in proactive insi
  Automated alerts empower us to move beyond reactive analysis to proactive risk management and opportunity identification. They help us connect micro-level operational data with macro-level economic trends, 
  leading to more informed and timely strategic decisions
 
+Some Key points are :
+- The specific KPI and its current value.
+- The magnitude and direction of the change (e.g., a 15% drop in weekly sales).
+- Comparison to previous periods (daily, weekly, monthly averages).
+- Potential contributing factors (if integrated with other data sources).
+- Links to relevant dashboards or reports for deeper investigation.
+
